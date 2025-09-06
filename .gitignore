@@ -1,0 +1,14 @@
+# Python environment
+env/
+
+# Python cache files
+__pycache__/
+*.pyc
+
+# Logs
+logs/
+
+# Data outputs
+output/
+
+

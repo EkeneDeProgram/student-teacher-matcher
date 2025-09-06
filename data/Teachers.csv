@@ -1,0 +1,6 @@
+teacher_id,name,subjects,available_time_slots,max_students_per_slot
+1,Mr. Obi,"Science, Art, History, English","Morning, Evening",2
+2,Mrs. Ama,"Art, Science","Evening, Morning",4
+3,Mr. John,"Art, Math, History, Music","Morning, Evening, Afternoon",2
+4,Ms. Clara,"Science, English, Computer Science","Afternoon, Evening, Morning",2
+5,Mr. Peter,"Science, Music, Math, Computer Science","Morning, Afternoon",4

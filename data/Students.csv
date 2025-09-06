@@ -1,0 +1,21 @@
+student_id,name,grade,subjects,preferred_time_slots
+1,Ada,11,Science,"Afternoon, Morning"
+2,Chinedu,5,"Music, Computer Science, Science","Evening, Morning"
+3,Funke,10,"Music, Computer Science, Math","Afternoon, Evening"
+4,Tunde,2,"Math, English, Computer Science","Evening, Afternoon"
+5,Aisha,9,"Music, Math, Art","Afternoon, Morning"
+6,Emeka,5,Art,"Evening, Morning"
+7,Ngozi,8,Music,"Morning, Evening"
+8,Samuel,5,"English, Music",Morning
+9,Blessing,2,Music,Morning
+10,Ifeanyi,7,History,Evening
+11,Fatima,1,"Science, Computer Science, Math","Afternoon, Morning"
+12,Maryam,3,"Computer Science, English, Art","Morning, Evening"
+13,Obinna,5,"Music, English, Art",Morning
+14,Uche,5,"History, Music, Math",Morning
+15,Kemi,4,"Music, Math","Morning, Evening"
+16,Segun,4,Music,"Evening, Morning"
+17,Amaka,10,"Computer Science, Music, English",Evening
+18,Chuka,3,"Music, Computer Science","Afternoon, Morning"
+19,Sade,2,"Art, Music, English","Afternoon, Evening"
+20,Yemi,6,"Computer Science, Music, English",Evening
